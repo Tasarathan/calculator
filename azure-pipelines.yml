@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: AssignmentTasa
+  name: Default
 
 steps:
 - task: NodeTool@0
